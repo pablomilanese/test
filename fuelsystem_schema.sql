@@ -1,3 +1,5 @@
+-- mockup schema for fuelsystem database
+
 CREATE TABLE "fuelsystemdb" (
 'car_ID' INT NOT NULL,
 'symboling' INT NOT NULL,
